@@ -1,0 +1,6 @@
+YOLOX Nano official public pretrained ONNX model, Megvii, Apache-2.0.
+https://github.com/Megvii-BaseDetection/YOLOX
+https://github.com/Megvii-BaseDetection/YOLOX/releases/tag/0.1.1rc0
+ONNX Runtime Web 1.20.1, Microsoft, MIT.
+https://github.com/microsoft/onnxruntime
+No Ultralytics/AGPL code or weights used. Original tracker code.
